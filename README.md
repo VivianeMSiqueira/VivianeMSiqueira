@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 # 📫 How to reach me:
 
 Olá, me chamo Viviane Magalhães Siqueira e estou cursando Tecnologia em Sistemas de Computação, pela UFF, além de cursos para aprimorar meus conhecimentos.
-Abaixo estão meus contatos.
 <br/>
 <br/>
 <a href="https://www.linkedin.com/in/viviane-magalhães-siqueira/" target="_blank">
