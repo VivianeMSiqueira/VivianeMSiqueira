@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Oi! Sou Viviane Magalhães Siqueira.
-- 🌱 Atualmente me dedico aos estudos de Java, Spring Boot, PL/SQL e React.
+- 🌱 Atualmente me aprofundando nos estudos de Java, Spring Boot, PL/SQL e React.
+- :woman_student: Cursando Tecnologia em Sistemas de Computação na UFF.
 
 # 📫 How to reach me:
 
@@ -55,6 +56,9 @@ Abaixo estão meus contatos.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VivianeMSiqueira&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeMSiqueira&layout=compact&langs_count=7&theme=bear"/>
 </div>
- ![Snake animation](https://github.com/VivianeMSiqueira/VivianeMSiqueira/blob/output/github-contribution-grid-snake.svg)
+  
+![Snake animation](https://github.com/VivianeMSiqueira/VivianeMSiqueira/blob/output/github-contribution-grid-snake.svg)
 
+<br>
+<img src="https://komarev.com/ghpvc/?username=VivianeMSiqueira&color=blue" alt="VivianeMSiqueira" />
 <hr />
