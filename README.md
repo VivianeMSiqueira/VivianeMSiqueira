@@ -38,7 +38,7 @@ Olá, me chamo Viviane Magalhães Siqueira e estou cursando Tecnologia em Sistem
 
 <hr />
 
-# My Skills
+# My Skills (under construction)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
