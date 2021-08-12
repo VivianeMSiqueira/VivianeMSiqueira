@@ -29,7 +29,7 @@ Olá, me chamo Viviane Magalhães Siqueira e estou cursando Tecnologia em Sistem
 <a href="https://www.instagram.com/vivianemagalhaessiqueira/" target="_blank">
   <img  align="center"  src="https://image.flaticon.com/icons/png/512/174/174855.png" width='40' style="max-width:100%;"/>
 </a>
-<a href="https://api.whatsapp.com/send?phone=5521989196039&text=Vi%20seu%20perfil%20no%20GitHub.%20Gostaria%20de%20falar%20com%20voc%C3%AA!" target="_blank" >
+<a href="https://bit.ly/3AOfPQn" target="_blank" >
   <img  align="center" src="https://img-premium.flaticon.com/png/512/1377/premium/1377218.png?token=exp=1628095702~hmac=e3c88d4097aeda5d5942302495655616" width='40' style="max-width:100%;"/> 
 </a>
 <a href="mailto:vickymsa@hotmail.com" target="_blank">
