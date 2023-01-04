@@ -24,16 +24,16 @@ Olá, me chamo Viviane Magalhães Siqueira e estou cursando Tecnologia em Sistem
 <br/>
 <br/>
 <a href="https://www.linkedin.com/in/viviane-magalhaes-siqueira/" target="_blank">
-  <img align="center" alt="junior-linkedin" width="40" src="https://image.flaticon.com/icons/png/512/187/187185.png" style="max-width:100%;">
+  <img align="center" alt="viviane-linkedin" width="40" src="https://icons8.com/icon/MR3dZdlA53te/linkedin" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/vivianemagalhaessiqueira/" target="_blank">
-  <img  align="center"  src="https://image.flaticon.com/icons/png/512/174/174855.png" width='40' style="max-width:100%;"/>
+  <img  align="center"  src="https://icons8.com/icon/nj0Uj45LGUYh/instagram" width='40' style="max-width:100%;"/>
 </a>
 <a href="https://api.whatsapp.com/send?phone=5521989196039&text=Oi!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20falar%20com%20voc%C3%AA." target="_blank" >
-  <img  align="center" src="https://image.flaticon.com/icons/png/512/733/733585.png" width='40' style="max-width:100%;"/> 
+  <img  align="center" src="https://icons8.com/icon/DUEq8l5qTqBE/whatsapp" width='40' style="max-width:100%;"/> 
 </a>
 <a href="mailto:vickymsa@hotmail.com" target="_blank">
-  <img  align="center"  src="https://www.svgrepo.com/show/220415/email-mail.svg" width='40' style="max-width:100%;"/>
+  <img  align="center"  src="https://icons8.com/icon/xLIkjgcmFOsC/mail" width='40' style="max-width:100%;"/>
 </a>
 
 <hr />
