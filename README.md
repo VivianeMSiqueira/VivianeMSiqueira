@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Olá, me chamo Viviane Magalhães Siqueira e estou cursando Tecnologia em Sistemas de Computação, pela UFF, além de cursos para aprimorar meus conhecimentos.
 <br/>
 <br/>
-<a href="https://www.linkedin.com/in/viviane-magalhães-siqueira/" target="_blank">
+<a href="https://www.linkedin.com/in/viviane-magalhaes-siqueira/" target="_blank">
   <img align="center" alt="junior-linkedin" width="40" src="https://image.flaticon.com/icons/png/512/187/187185.png" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/vivianemagalhaessiqueira/" target="_blank">
